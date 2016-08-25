@@ -28,22 +28,22 @@ footer p{
 	padding-right: 0px;
 	padding-left: 0px;
 }
-@media only screen and (device-width: 600px) {
-  /* For general iPad layouts */
+/*@media only screen and (device-width: 600px) {
+   For general iPad layouts 
   img.image{
 		margin: 0 40%;
 	}
 	#wrapper{
 		margin: 12% 0;
 	}
-}
+}*/
 @media only screen and (device-width: 768px) {
   /* For general iPad layouts */
   img.image{
-		margin: 0 50%;
+		margin: 0 40%;
 	}
 	#wrapper{
-		margin: 18% 0;
+		margin: 16% 0;
 	}
 }
 
