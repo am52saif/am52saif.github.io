@@ -46,6 +46,15 @@ footer p{
 		margin: 14% 0;
 	}
 }
+@media only screen and (device-width: 1000px) {
+  /* For general iPad layouts */
+  img.image{
+		margin: 0 40%;
+	}
+	#wrapper{
+		margin: 18% 0;
+	}
+}
 
 @media (max-width: 750px){
 	img.image{
