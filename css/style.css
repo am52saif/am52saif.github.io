@@ -31,10 +31,10 @@ footer p{
 @media only screen and (device-width: 600px) {
   /* For general iPad layouts */
   img.image{
-		margin: 0 35%;
+		margin: 0 40%;
 	}
 	#wrapper{
-		margin: 16% 0;
+		margin: 14% 0;
 	}
 }
 @media only screen and (device-width: 768px) {
