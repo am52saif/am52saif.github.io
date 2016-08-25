@@ -28,19 +28,28 @@ footer p{
 	padding-right: 0px;
 	padding-left: 0px;
 }
-
-@media(max-width: 750px){
-	img.image{
+@media only screen and (device-width: 768px) {
+  /* For general iPad layouts */
+  img.image{
 		margin: 0 35%;
 	}
-}
-@media(min-width: 990px){
 	#wrapper{
 		margin: 10% 0;
 	}
 }
 
-@media(min-width: 1100px){
+@media (max-width: 750px){
+	img.image{
+		margin: 0 35%;
+	}
+}
+@media (min-width: 990px){
+	#wrapper{
+		margin: 10% 0;
+	}
+}
+
+@media (min-width: 1100px){
 	#wrapper{
 		margin: 8% 0;
 	}
