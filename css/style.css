@@ -29,7 +29,7 @@ footer p{
 	padding-left: 0px;
 }
 
-@media(max-width: 1000px){
+@media(max-width: 750px){
 	img.image{
 		margin: 0 35%;
 	}
